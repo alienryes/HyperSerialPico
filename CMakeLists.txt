@@ -1,7 +1,7 @@
 # User configuration section starts here
 
 # Default output data pin for the LED strip
-set(OUTPUT_DATA_PIN 2)
+set(OUTPUT_DATA_PIN 15)
 
 # Default output clock pin for the LED strip (SPI leds only, not for sk6812/ws2812b)
 set(OUTPUT_CLOCK_PIN 3)
