@@ -4,7 +4,7 @@
 set(OUTPUT_DATA_PIN 15)
 
 # Default output clock pin for the LED strip (SPI leds only, not for sk6812/ws2812b)
-set(OUTPUT_CLOCK_PIN 2)
+set(OUTPUT_CLOCK_PIN 3)
 
 # Use multi-segment, starting index of second led strip or OFF to disable
 set(SECOND_SEGMENT_INDEX OFF)
